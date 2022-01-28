@@ -1,0 +1,24 @@
+{
+  "orders": [
+    {
+      "tjmHt": 1200,
+      "nbJours": 5,
+      "tva": 20,
+      "state": "CONFIRMED",
+      "typePresta": "Coaching",
+      "client": "Modis",
+      "comment": "Commentaire pour Benjamin",
+      "id": 1
+    }
+  ],
+  "clients": [
+    {
+      "name": "capgemini",
+      "state": "ACTIVE",
+      "tauxTva": 20,
+      "id": 3,
+      "totalCaHt": 0,
+      "comment": "rsger"
+    }
+  ]
+}
